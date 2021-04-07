@@ -1,1 +1,1 @@
-# css-floats-blogpost
+# css-floats-blogpost exercise completed.
